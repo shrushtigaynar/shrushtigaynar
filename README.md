@@ -25,11 +25,8 @@
   <p>Full-Stack Developer focused on <strong>backend systems, REST APIs</strong>, and <strong>progressive web applications</strong>.</p>
   <ul>
     <li>🚀 Build → Deploy → Improve workflow</li>
-    <li>🔭 I’m currently working on <strong>Full-Stack & AI Applications</strong></li>
-    <li>🌱 I’m currently exploring <strong>Advanced Machine Learning & Cloud</strong></li>
-    <li>👯 I’m looking to collaborate on <strong>Open Source Projects</strong></li>
-    <li>💬 Ask me about <strong>React, Node.js, and AI Integration</strong></li>
-    <li>📫 How to reach me: <strong><a href="mailto:your.email@example.com">your.email@example.com</a></strong></li>
+    <li>☁️ Exploring artificial intelligence and machine learning</li>
+    <li>💼 Open to <strong>Software Engineering Opportunities</strong></li>
   </ul>
 </div>
 
@@ -64,45 +61,16 @@
 
 <br/>
 
-<!-- Featured Projects -->
-<div align="center">
-  <h3>🔥 Featured Projects</h3>
-</div>
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/shrushtigaynar/TrafficIQ">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shrushtigaynar&repo=TrafficIQ&theme=radium&hide_border=true&bg_color=0D1117" alt="TrafficIQ" width="100%"/>
-      </a>
-      <p align="center"><i>AI-powered real-time traffic intelligence system for Indian cities.</i></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/shrushtigaynar/mental-ability-accelerator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shrushtigaynar&repo=mental-ability-accelerator&theme=radium&hide_border=true&bg_color=0D1117" alt="Mental Ability Accelerator" width="100%"/>
-      </a>
-      <p align="center"><i>Full-stack aptitude training platform with adaptive AI recommendations.</i></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" colspan="2">
-      <div align="center">
-        <a href="https://github.com/shrushtigaynar/Hostel-Leave-Managment">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shrushtigaynar&repo=Hostel-Leave-Managment&theme=radium&hide_border=true&bg_color=0D1117" alt="Hostel Leave Management" width="50%"/>
-        </a>
-        <p align="center"><i>A web-based hostel leave management system for students and wardens.</i></p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br/>
 
 <!-- Connect With Me -->
 <div align="center">
   <h3>🤝 Let's Connect</h3>
   <a href="https://www.linkedin.com/in/shrushti-gaynar-63aa61332/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/your-twitter-username" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="mailto:srushtigayanar@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
