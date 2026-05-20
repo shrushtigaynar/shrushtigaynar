@@ -5,7 +5,7 @@
 
 <!-- Welcome Greeting & Metrics -->
 <div align="center">
-  <h3>🚀 Welcome to my GitHub space!</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=20&color=3B82F6&center=true&vCenter=true&width=650&height=40&lines=🚀+Building+smart+real-world+solutions+with+code+%26+creativity" alt="Greeting Headline" />
   
   <a href="https://github.com/shrushtigaynar">
     <img src="https://komarev.com/ghpvc/?username=shrushtigaynar&style=flat-square&color=3B82F6&label=PROFILE+VIEWS" alt="Profile Views"/>
