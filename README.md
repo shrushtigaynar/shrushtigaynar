@@ -6,7 +6,7 @@
 <!-- Welcome Greeting & Metrics -->
 <div align="center">
   <h3>
-    🚀 <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=30&text=Building%20smart%20real-world%20solutions%20with%20code%20%26%20creativity&fontSize=20&fontColor=3B82F6&fontAlignY=50&width=530" align="center" alt="Building smart real-world solutions with code & creativity" />
+    Building smart real-world solutions with code & creativity
   </h3>
   
   <br/>
