@@ -1,87 +1,161 @@
 <!-- Dynamic Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Shrushti%20Gaynar&fontSize=50&fontAlignY=35&animation=twinkling&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:3b82f6,100:14b8a6&height=250&section=header&text=Shrushti%20Gaynar&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55" alt="Header Banner" />
 </div>
 
-<!-- Introduction & Stats -->
+<!-- Welcome Typing Greeting & Metrics -->
 <div align="center">
-  <h3>🚀 Building smart real-world solutions with code & creativity</h3>
-  <p>I'm a passionate Full-Stack Developer and AI Enthusiast, always looking to build innovative projects that solve real-world problems.</p>
-  <br/>
-  <!-- Profile Views and Followers -->
+  <h3>🚀 Welcome to my GitHub space!</h3>
+  
   <a href="https://github.com/shrushtigaynar">
-    <img src="https://komarev.com/ghpvc/?username=shrushtigaynar&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" alt="Profile Views"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Building+smart+solutions;Full-Stack+Web+Developer;Exploring+AI+%26+System+Design;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+  
+  <br/>
+  
+  <a href="https://github.com/shrushtigaynar">
+    <img src="https://komarev.com/ghpvc/?username=shrushtigaynar&style=flat-square&color=3B82F6&label=PROFILE+VIEWS" alt="Profile Views"/>
   </a>
   <a href="https://github.com/shrushtigaynar?tab=followers">
-    <img src="https://img.shields.io/github/followers/shrushtigaynar?style=for-the-badge&color=8A2BE2&label=FOLLOWERS" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/shrushtigaynar?style=flat-square&color=8B5CF6&label=FOLLOWERS" alt="Followers"/>
   </a>
 </div>
 
 <br/>
+<hr/>
+<br/>
 
-<!-- About Me -->
-<div align="left">
-  <h3>🎯 About Me</h3>
-  <p>Full-Stack Developer focused on <strong>backend systems, REST APIs</strong>, and <strong>progressive web applications</strong>.</p>
-  <ul>
-    <li>🚀 Build → Deploy → Improve workflow</li>
-    <li>☁️ Exploring artificial intelligence and machine learning</li>
-    <li>💼 Open to <strong>Software Engineering Opportunities</strong></li>
-  </ul>
-</div>
+<!-- About Me & Terminal Info -->
+## 👤 About Me
+
+Hello! I'm **Shrushti Gaynar**, a Full-Stack Developer and AI Enthusiast based in India. I love engineering clean, scalable, and efficient software solutions. My core philosophy is **Build → Deploy → Improve**; I thrive on turning complex ideas into production-ready web applications.
+
+- 🔭 I’m currently exploring **Advanced System Design** and **Cloud Infrastructure**.
+- 🧠 Interested in integrating **AI/ML workflows** and autonomous agents into web platforms.
+- 💼 Open to **Software Engineering Opportunities** where I can build and scale systems.
+- ⚡ Fun fact: I love finding optimization bottlenecks and squeezing out every millisecond of performance!
+
+### ⚡ Current Status
+
+```yaml
+learning: "System Design & Distributed Systems"
+building: "Cognitive AI applications & high-performance APIs"
+exploring: "Large Language Models & Agentic Workflows"
+philosophy: "Write code that is easy to read, hard to break"
+```
 
 <br/>
 
 <!-- Tech Stack -->
+## 🛠️ Tech Stack & Tools
+
 <div align="center">
-  <h3>💻 Tech Stack</h3>
-  <br/>
-  <p>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  </p>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,tailwind,nodejs,express,mongodb,postgres,git,github,vscode,html,css&perline=8" alt="My Skills" />
 </div>
 
 <br/>
 
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Frameworks** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
+| **Tools & DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
 
+<br/>
 
-<!-- Connect With Me -->
+<!-- Featured Projects -->
+## 🚀 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Mental Ability Accelerator</h3>
+      <p>A full-stack aptitude training platform featuring adaptive AI recommendations, cognitive profiling, real-time collaboration, and performance analytics.</p>
+      <p>
+        <a href="https://github.com/shrushtigaynar/mental-ability-accelerator"><b>View Repository →</b></a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs" alt="Node" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql" alt="PostgreSQL" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚦 TrafficIQ</h3>
+      <p>An AI-powered system designed for real-time traffic intelligence and analytics to optimize transport networks and improve municipal routing systems.</p>
+      <p>
+        <a href="https://github.com/shrushtigaynar/TrafficIQ"><b>View Repository →</b></a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" alt="Python" />
+        <img src="https://img.shields.io/badge/AI/ML-FF6F00?style=flat-square" alt="AI/ML" />
+        <img src="https://img.shields.io/badge/Computer_Vision-000000?style=flat-square" alt="CV" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🏢 Hostel Leave Management</h3>
+      <p>A web-based leave management system designed for students and wardens, streamlining approvals, track records, and leave request workflows.</p>
+      <p>
+        <a href="https://github.com/shrushtigaynar/Hostel-Leave-Managment"><b>View Repository →</b></a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- GitHub Stats -->
+## 📊 GitHub Analytics
+
 <div align="center">
-  <h3>🤝 Let's Connect</h3>
-  <a href="https://www.linkedin.com/in/shrushti-gaynar-63aa61332/" target="_blank">
+  <table border="0">
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=shrushtigaynar&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" alt="Shrushti's GitHub Stats" width="400" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrushtigaynar&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" alt="Top Languages" width="300" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" colspan="2">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrushtigaynar&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" width="715" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- Connect with me -->
+## 🤝 Connect with Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/shrushtigaynar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/your-twitter-username" target="_blank">
+  <a href="https://github.com/shrushtigaynar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://twitter.com/shrushtigaynar" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:srushtigayanar@gmail.com" target="_blank">
+  <a href="mailto:shrushtigaynar@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
 <br/>
 
-<!-- Animated Footer -->
+<!-- Footer -->
 <div align="center">
-  <a href="https://github.com/shrushtigaynar">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Building+the+Future+with+AI;Turning+Ideas+into+Reality;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:14b8a6&height=100&section=footer" alt="Footer Banner" />
 </div>
