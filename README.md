@@ -149,7 +149,7 @@ philosophy: "Write code that is easy to read, hard to break"
 <div align="center">
   <br/>
   <a href="https://github.com/shrushtigaynar">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&pause=1000&color=14b8a6&center=true&vCenter=true&width=435&lines=Building+Smart+Solutions;Full-Stack+Web+Developer;Exploring+AI+%26+System+Design;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&pause=1000&color=14b8a6&center=true&vCenter=true&width=435&lines=Building+Smart+Solutions;Full-Stack+Web+Developer;Open+Source+Contributor" alt="Typing SVG" />
   </a>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:14b8a6&height=120&section=footer" alt="Footer Banner" />
