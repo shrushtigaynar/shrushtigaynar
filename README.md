@@ -5,17 +5,23 @@
 
 <!-- Welcome Greeting & Metrics -->
 <div align="center">
-  <img src="headline.svg" alt="🚀 Building smart real-world solutions with code & creativity" />
+  <h3>
+    🚀 <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=30&text=Building%20smart%20real-world%20solutions%20with%20code%20%26%20creativity&fontSize=20&fontColor=3B82F6&fontAlignY=50&width=530" align="center" alt="Building smart real-world solutions with code & creativity" />
+  </h3>
   
-  <a href="https://github.com/shrushtigaynar">
-    <img src="https://komarev.com/ghpvc/?username=shrushtigaynar&style=flat-square&color=3B82F6&label=PROFILE+VIEWS" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/shrushtigaynar?tab=followers">
-    <img src="https://img.shields.io/github/followers/shrushtigaynar?style=flat-square&color=8B5CF6&label=FOLLOWERS" alt="Followers"/>
-  </a>
-  <a href="https://gssoc.girlscript.org/" target="_blank">
-    <img src="https://img.shields.io/badge/GSSoC'26-Open%20Source-8A2BE2?style=flat-square" alt="GSSoC 2026"/>
-  </a>
+  <br/>
+  
+  <div>
+    <a href="https://github.com/shrushtigaynar">
+      <img src="https://komarev.com/ghpvc/?username=shrushtigaynar&style=flat-square&color=3B82F6&label=PROFILE+VIEWS" alt="Profile Views"/>
+    </a>
+    <a href="https://github.com/shrushtigaynar?tab=followers">
+      <img src="https://img.shields.io/github/followers/shrushtigaynar?style=flat-square&color=8B5CF6&label=FOLLOWERS" alt="Followers"/>
+    </a>
+    <a href="https://gssoc.girlscript.org/" target="_blank">
+      <img src="https://img.shields.io/badge/GSSoC'26-Open%20Source-8A2BE2?style=flat-square" alt="GSSoC 2026"/>
+    </a>
+  </div>
 </div>
 
 <br/>
