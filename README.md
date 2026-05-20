@@ -113,23 +113,20 @@ philosophy: "Write code that is easy to read, hard to break"
 <!-- GitHub Stats -->
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=shrushtigaynar&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" alt="Shrushti's GitHub Stats" width="400" />
-      </td>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrushtigaynar&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" alt="Top Languages" width="300" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" colspan="2">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrushtigaynar&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" width="715" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <a href="https://github.com/shrushtigaynar">
+    <img src="https://github-profile-trophy.vercel.app/?username=shrushtigaynar&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=shrushtigaynar&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" alt="Shrushti's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=shrushtigaynar&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" alt="Top Languages" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrushtigaynar&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" width="99%" />
+</p>
 
 <br/>
 
