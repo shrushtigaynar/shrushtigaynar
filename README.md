@@ -114,21 +114,7 @@ philosophy: "Write code that is easy to read, hard to break"
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=shrushtigaynar&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" alt="Shrushti's GitHub Stats" width="400" />
-      </td>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrushtigaynar&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" alt="Top Languages" width="300" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" colspan="2">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrushtigaynar&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" width="715" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrushtigaynar&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" width="550" />
 </div>
 
 <br/>
