@@ -3,21 +3,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:3b82f6,100:14b8a6&height=250&section=header&text=Shrushti%20Gaynar&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55" alt="Header Banner" />
 </div>
 
-<!-- Welcome Typing Greeting & Metrics -->
+<!-- Welcome Greeting & Metrics -->
 <div align="center">
   <h3>🚀 Welcome to my GitHub space!</h3>
-  
-  <a href="https://github.com/shrushtigaynar">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Building+smart+solutions;Full-Stack+Web+Developer;Exploring+AI+%26+System+Design;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
-  
-  <br/>
   
   <a href="https://github.com/shrushtigaynar">
     <img src="https://komarev.com/ghpvc/?username=shrushtigaynar&style=flat-square&color=3B82F6&label=PROFILE+VIEWS" alt="Profile Views"/>
   </a>
   <a href="https://github.com/shrushtigaynar?tab=followers">
     <img src="https://img.shields.io/github/followers/shrushtigaynar?style=flat-square&color=8B5CF6&label=FOLLOWERS" alt="Followers"/>
+  </a>
+  <a href="https://gssoc.girlscript.org/" target="_blank">
+    <img src="https://img.shields.io/badge/GSSoC'26-Open%20Source-8A2BE2?style=flat-square" alt="GSSoC 2026"/>
   </a>
 </div>
 
@@ -30,6 +27,7 @@
 
 Hello! I'm **Shrushti Gaynar**, a Full-Stack Developer and AI Enthusiast based in India. I love engineering clean, scalable, and efficient software solutions. My core philosophy is **Build → Deploy → Improve**; I thrive on turning complex ideas into production-ready web applications.
 
+- 🌟 Contributor at **GSSoC 2026 (Open Source & AI/Agents Track)**
 - 🔭 I’m currently exploring **Advanced System Design** and **Cloud Infrastructure**.
 - 🧠 Interested in integrating **AI/ML workflows** and autonomous agents into web platforms.
 - 💼 Open to **Software Engineering Opportunities** where I can build and scale systems.
@@ -157,5 +155,10 @@ philosophy: "Write code that is easy to read, hard to break"
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:14b8a6&height=100&section=footer" alt="Footer Banner" />
+  <br/>
+  <a href="https://github.com/shrushtigaynar">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&pause=1000&color=14b8a6&center=true&vCenter=true&width=435&lines=Building+Smart+Solutions;Full-Stack+Web+Developer;Exploring+AI+%26+System+Design;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:14b8a6&height=120&section=footer" alt="Footer Banner" />
 </div>
