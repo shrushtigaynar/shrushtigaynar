@@ -42,10 +42,10 @@ Hello! I'm **Shrushti Gaynar**, a Full-Stack Developer and AI Enthusiast based i
 ### ⚡ Current Status
 
 ```yaml
-learning: "Advanced Web Development & AI Integrations"
-building: "Cognitive AI applications & high-performance APIs"
-exploring: "Large Language Models & Agentic Workflows"
-philosophy: "Write code that is easy to read, hard to break"
+learning: "Advanced Web Development & AI Integrations".
+building: "Cognitive AI applications & high-performance APIs".
+exploring: "Large Language Models & Agentic Workflows".
+philosophy: "Write code that is easy to read, hard to break".
 ```
 
 <br/>
