@@ -6,7 +6,7 @@
 <!-- Welcome Greeting & Metrics -->
 <div align="center">
   <h3>
-    Building smart real-world solutions with code & creativity...
+    Building smart real-world solutions with code & creativity!
   </h3>
   
   <br/>
