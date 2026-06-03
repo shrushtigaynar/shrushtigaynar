@@ -34,7 +34,7 @@
 Hello! I'm **Shrushti Gaynar**, a Full-Stack Developer and AI Enthusiast based in India. I love engineering clean, scalable, and efficient software solutions. My core philosophy is **Build → Deploy → Improve**; I thrive on turning complex ideas into production-ready web applications.
 
 - 🌟 Contributor at **GSSoC 2026 (Open Source contributor)**
-- 🚀 Dedicated to the **Build → Deploy → Improve** development cycle.
+- 🚀 Dedicated to the **Build → Deploy → Improve** development cycle
 - 🧠 Interested in integrating **AI/ML workflows** and autonomous agents into web platforms.
 - 💼 Open to **Software Engineering Opportunities** where I can build and scale systems.
 - ⚡ Fun fact: I love finding optimization bottlenecks and squeezing out every millisecond of performance!
